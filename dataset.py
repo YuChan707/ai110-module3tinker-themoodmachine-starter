@@ -50,6 +50,19 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "Lowkey stressed but kinda proud of what I shipped",
+    "No cap, this party was the worst 😂",
+    "Highkey could do without this 5am meeting",
+    "I absolutely love getting stuck in traffic 😒",
+    "I’m chill, but also a bit anxious about tomorrow",
+    "Went to the gym, felt weak but also strong 💪",
+    "Can’t tell if I’m mad or just tired 🥲",
+    "This is the best worst date I’ve ever been on 💀",
+    "I’m so happy and also sorta sad at the same time",
+    "No emoji needed, the vibes are immaculate :)",
+    "Ugh, I hate being sick but the cozy blankets are nice :(",
+    "Feeling neutral about everything rn",
+    "I’m actually crying from laughing too hard 😂",
 ]
 
 # Human labels for each post above.
@@ -65,6 +78,19 @@ TRUE_LABELS = [
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
     "negative",  # "I am not happy about this"
+    "mixed",     # "Lowkey stressed but kinda proud of what I shipped"
+    "negative",  # "No cap, this party was the worst 😂"
+    "negative",  # "Highkey could do without this 5am meeting"
+    "negative",  # "I absolutely love getting stuck in traffic 😒"
+    "mixed",     # "I’m chill, but also a bit anxious about tomorrow"
+    "mixed",     # "Went to the gym, felt weak but also strong 💪"
+    "mixed",     # "Can’t tell if I’m mad or just tired 🥲"
+    "mixed",     # "This is the best worst date I’ve ever been on 💀"
+    "mixed",     # "I’m so happy and also sorta sad at the same time"
+    "positive",  # "No emoji needed, the vibes are immaculate :)"
+    "mixed",     # "Ugh, I hate being sick but the cozy blankets are nice :("
+    "neutral",   # "Feeling neutral about everything rn"
+    "positive",  # "I’m actually crying from laughing too hard 😂"
 ]
 
 # TODO: Add 5-10 more posts and labels.
